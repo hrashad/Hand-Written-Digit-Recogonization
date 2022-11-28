@@ -1,0 +1,4 @@
+Python Version 3.10.2
+pip install flask
+pip install tensorflow
+pip install pillow
